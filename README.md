@@ -1,7 +1,4 @@
-## Hi there 👋
-
-- I'm currently trying to get into open source development :)
-- Interested in AI and SWE
+### Hi, I'm Benedikt 👋
 
 <!--
 **Benedikt-Wolf/Benedikt-Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
